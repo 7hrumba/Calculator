@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Calculator</title></head>
+    <link rel="stylesheet" href="calc.css">
+    <body>
+        <div><input class="number" id="display"></div>
+     <div class="buttons">
+        <button class="b1" onclick="addValue('1')">1</button>
+        <button class="b2" onclick="addValue('2')">2</button>
+        <button class="b3" onclick="addValue('3')">3</button>
+        <button class="c" onclick="clearDisplay()">C</button>
+     </div>
+     <div>
+        <button class="b4" onclick="addValue('4')">4</button>
+        <button class="b5" onclick="addValue('5')">5</button>
+        <button class="b6" onclick="addValue('6')">6</button>
+        <button class="m" onclick="addValue('*')">*</button>     
+     </div>
+        <button class="b7"  onclick="addValue('7')">7</button>
+        <button class="b8" onclick="addValue('8')">8</button>
+        <button class="b9" onclick="addValue('9')">9</button>
+        <button class="d" onclick="addValue('/')">/</button>
+     <div>
+        <button class="b0" onclick="addValue('0')">0</button>
+        <button class="a" onclick="addValue('+')">+</button>
+        <button class="s" onclick="addValue('-')">-</button>
+        <button class="e" onclick="calculate()">=</button>
+     </div>
+     <script>
+     const display = document.getElementById('display');
+ 
+     function addValue(val) {
+        display.value += val;
+     }
+
+     function clearDisplay() {
+        display.value = '';
+     }
+     function calculate() {
+        try {
+            // Evaluate the expression in the display
+            display.value = eval(display.value);
+        } catch (error) {
+            display.value = 'Error';
+        }
+     }
+      </script>
+
+    </body>
+</html>

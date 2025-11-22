@@ -1,0 +1,271 @@
+.b1{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+ .b1:hover{
+        background-color: grey;
+    }
+    .b1:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b2{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+ .b2:hover{
+        background-color: grey;
+    }
+    .b2:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b3{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+ .b3:hover{
+        background-color: grey;
+    }
+    .b3:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b4{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    margin-top: 8px;
+    font-size: 30px;
+    margin-left:50px;
+    cursor: pointer;
+}
+ .b4:hover{
+        background-color: grey;
+    }
+    .b4:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b5{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+ .b5:hover{
+        background-color: grey;
+    }
+    .b5:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b6{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+ .b6:hover{
+        background-color: grey;
+    }
+    .b6:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b7{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    margin-top: 8px;
+    font-size: 30px;
+    margin-left:50px;
+    cursor: pointer;
+}
+ .b7:hover{
+        background-color: grey;
+    }
+    .b7:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b8{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+ .b8:hover{
+        background-color: grey;
+    }
+    .b8:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b9{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+ .b9:hover{
+        background-color: grey;
+    }
+    .b9:active{
+        background-color: rgb(215, 204, 204);
+    }
+.b0{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    margin-top: 8px;
+    font-size: 30px;
+    margin-left:50px;
+    cursor: pointer;
+}
+ .b0:hover{
+        background-color: grey;
+    }
+    .b0:active{
+        background-color: rgb(215, 204, 204);
+    }
+.a{
+    background-color: rgb(20, 4, 59);
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.a:hover{
+    background-color: rgb(78, 67, 67);
+}
+.a:active{
+    background-color:rgb(131, 129, 129)
+}
+.s{
+    background-color: rgb(20, 4, 59);
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.s:hover{
+    background-color: rgb(78, 67, 67);
+}
+.s:active{
+    background-color:rgb(131, 129, 129)
+}
+.m{
+    background-color: rgb(20, 4, 59);
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.m:hover{
+    background-color: rgb(78, 67, 67);
+}
+.m:active{
+    background-color:rgb(131, 129, 129)
+}
+.d{
+    background-color: rgb(20, 4, 59);
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.d:hover{
+    background-color: rgb(78, 67, 67);
+}
+.d:active{
+    background-color:rgb(131, 129, 129)
+}
+.e{
+    background-color: rgb(224, 148, 7);
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.e:hover{
+    background-color: rgb(188, 143, 58);
+}
+.e:active{
+    background-color: rgb(227, 191, 124);
+}
+.c{
+    background-color: rgb(255, 187, 0);
+    color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+    margin-right: 5px;
+    font-size: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.c:hover{
+    background-color: rgb(188, 143, 58);
+}
+.c:active{
+    background-color: rgb(227, 191, 124);
+}
+.number{
+    margin-top: 20px;
+    height: 50px;
+    width: 300px;
+    margin-left: 50px;
+    font-size: 30px;
+}
